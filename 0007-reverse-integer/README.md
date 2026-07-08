@@ -3,9 +3,9 @@
 **Difficulty:** Medium
 **Tags:** Math
 **Language:** cpp
-**Runtime:** 0 ms
+**Runtime:** 3 ms
 **Memory:** 6.2 MB
-**Solved:** 2023-12-28 08:09 UTC
+**Solved:** 2023-12-28 08:08 UTC
 **Link:** https://leetcode.com/problems/reverse-integer/
 
 ---
