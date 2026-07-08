@@ -5,7 +5,7 @@
 **Language:** java
 **Runtime:** 1 ms
 **Memory:** 47.2 MB
-**Solved:** 2026-05-15 08:55 UTC
+**Solved:** 2026-05-15 08:53 UTC
 **Link:** https://leetcode.com/problems/concatenation-of-array/
 
 ---
