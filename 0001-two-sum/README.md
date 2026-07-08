@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Tags:** Array, Hash Table
-**Language:** cpp
-**Runtime:** 580 ms
-**Memory:** 10.5 MB
-**Solved:** 2023-12-28 07:11 UTC
+**Language:** java
+**Runtime:** 2 ms
+**Memory:** 46.9 MB
+**Solved:** 2026-07-08 10:53 UTC
 **Link:** https://leetcode.com/problems/two-sum/
 
 ---
