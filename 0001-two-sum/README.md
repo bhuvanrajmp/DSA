@@ -3,9 +3,9 @@
 **Difficulty:** Easy
 **Tags:** Array, Hash Table
 **Language:** java
-**Runtime:** 2 ms
+**Runtime:** 47 ms
 **Memory:** 46.9 MB
-**Solved:** 2026-07-08 10:53 UTC
+**Solved:** 2026-07-08 10:39 UTC
 **Link:** https://leetcode.com/problems/two-sum/
 
 ---
